@@ -1,4 +1,4 @@
-//hej jonathan
+//hej
 package terning;
 
 public class Dice {
