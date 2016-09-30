@@ -2,7 +2,7 @@
  * |Members|
  * Jonathan		[s165213]
  * Johnny		[s165543] 
- * Chris		[]
+ * Chris		[s165230]
  * Thomas		[]
  * Jesper		[s144211]
  * Bertram		[s153538]
