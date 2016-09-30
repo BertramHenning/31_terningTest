@@ -1,14 +1,14 @@
 # terningTest
 Gruppe 31
 
-  Jonathan	[s165213]
+ [s165213] Jonathan	
   
-  Johnny		[s165543] 
+ [s165543] Johnny		
   
-  Chris		  [s165230]
+ [s165230] Chris		
   
-  Thomas		[s154424]
+ [s154424] Thomas		
   
-  Jesper		[s144211]
+ [s144211] Jesper		
   
-  Bertram		[s153538]
+ [s153538] Bertram		
