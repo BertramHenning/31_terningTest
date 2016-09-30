@@ -1,3 +1,4 @@
+//haHAA
 package terning;
 
 public class Dice {
