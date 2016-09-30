@@ -4,7 +4,7 @@
  * Johnny		[s165543] 
  * Chris		[]
  * Thomas		[]
- * Jesper		[]
+ * Jesper		[s144211]
  * Bertram		[s153538]
  */
 package terning;
