@@ -1,5 +1,3 @@
-//UploadTest
-//haHAA
 package terning;
 
 public class Dice {
